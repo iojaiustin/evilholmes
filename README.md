@@ -44,7 +44,9 @@ The tool is designed to extract information and let users know about their expos
 ## ⚙️ Configuration
 Edit the values found in ```/config/evilholmes.yml``` by:
 -  replacing the "GOOGLE-API-KEY" with your own google cloud API key.
--  setting the "CSE-ID" with a CSE key that you can obtain from creating a google browser.
+-  setting the "CSE-ID" with a CSE key that you can obtain by **creating a google browser**.
 See the 'References' section for more information.
 
 ## 🔗 References
+Create a browser - https://programmablesearchengine.google.com/controlpanel/create
+Create Google project - https://cloud.google.com/apis/docs/getting-started
