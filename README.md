@@ -48,6 +48,12 @@ Edit the values found in ```/config/evilholmes.yml``` by:
   
 See the 'References' section for more information.
 
+## 🖥️ Examples
+<img src="https://github.com/iojaiustin/evilholmes/assets/32909251/30884544-c59b-49df-8ee0-3fab78399920" width="350" height="300">
+<img src="https://github.com/iojaiustin/evilholmes/assets/32909251/0c67e8d7-6865-4013-8e95-525e376efa60" width="450" height="300">
+
+
+
 ## 🔗 References
 Create a browser - https://programmablesearchengine.google.com/controlpanel/create
 
